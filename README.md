@@ -13,7 +13,7 @@ Overall, AI is a powerful tool that can be used to improve the performance, secu
 We invite interested people to the side meeting to discuss requirements, use cases, and AI solutions to improve the network. Anyone is welcome to share their thoughts, including but not limited to, research work such as papers, demos, trial deployments, commercial implementation and existing deployments.
 
 # IETF 118 Side Meeting
-Meeting Time: WEDNESDAY 8 NOVEMBER
+Meeting Time: WEDNESDAY 8 NOVEMBER 14:00 – 15:30 CET (13:00 – 14:30 GMT)
 Meeting Location: Palmovka1/2
 
 Remote Participation: https://ietf.webex.com/meet/ietfsidemeeting2
