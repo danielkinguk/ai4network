@@ -15,23 +15,25 @@ We invite interested people to the side meeting to discuss requirements, use cas
 # IETF 118 Side Meeting
 Meeting Time: WEDNESDAY 8 NOVEMBER
 Meeting Location: Palmovka1/2
+
 Remote Participation: https://ietf.webex.com/meet/ietfsidemeeting2
+
 Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf118
 
-Chairs:
-chengweiqiang@chinamobile.com, China Mobile
-d.king@lancaster.ac.uk, Lancaster University
+Chairs: Weiqiang Cheng (chengweiqiang@chinamobile.com) and Daniel King (d.king@lancaster.ac.uk)
 
 Agenda: 
 
   1. Data, AI and Cybersecurity - a possible cocktail?
      Professor Marco, POLITO
+     
      Abstract: Modern Artificial Intelligence technologies, led by Deep Learning, have gained unprecedented momentum over the past decade. Following this wave of ``AI summer", the network research community has also embraced AI/ML algorithms to address many problems
      related to network operations, management and cybersecurity. In this talk I’ll present some of our recent results in applying AI-based solution to automatically process traffic traces and detect novel attacks, prevent cybersquatting attacks, support forensic
      investigations, and open new opportunities to protect users from possible abuses.
+
      Slides: https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0
  
-  2. REDTE: Exploiting the Power of Reinforcement Learning for Fast Traffic Engineering in Wide Area Networks
+  3. REDTE: Exploiting the Power of Reinforcement Learning for Fast Traffic Engineering in Wide Area Networks
      Professor Dan Li, Tsinghua University
      Abstract: TBA
      Slides TBA
