@@ -27,7 +27,7 @@ Chairs: Weiqiang Cheng (chengweiqiang@chinamobile.com) and Daniel King (d.king@l
 #### 1. Data, AI and Cybersecurity - a possible cocktail?**
 Presenter: Professor Marco, POLITO
      
-Abstract: Modern Artificial Intelligence technologies, led by Deep Learning, have gained unprecedented momentum over the past decade. Following this wave of ``AI summer", the network research community has also embraced AI/ML algorithms to address many problems     related to network operations, management and cybersecurity. In this talk I’ll present some of our recent results in applying AI-based solution to automatically process traffic traces and detect novel attacks, prevent cybersquatting attacks, support forensic    investigations, and open new opportunities to protect users from possible abuses.
+Abstract: Modern Artificial Intelligence technologies, led by Deep Learning, have gained unprecedented momentum over the past decade. Following this wave of ``AI summer", the network research community has also embraced AI/ML algorithms to address many problems related to network operations, management and cybersecurity. In this talk I’ll present some of our recent results in applying AI-based solution to automatically process traffic traces and detect novel attacks, prevent cybersquatting attacks, support forensic investigations, and open new opportunities to protect users from possible abuses.
 
 Slides: https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0
  
@@ -41,7 +41,7 @@ Slides TBA
 #### 3. AI4ME: Network Challenges and Role of AI in Personalised Object Media at Scale**
 Presenter: Rajiv Ramdhany, Senior R&D Engineer and Scientist, BBC
      
-Abstract: The AI4NME project is building an infrastructure of object media experiences (personalised media) using edge computing resources to render customised real-time content to high-end audience devices. The project addresses the challenges of generating and      delivering tailored object media by intelligently distributing the processing and data through the delivery network, making optimal use of AI-based resources in the cloud, and utilising edge-compute nodes to provide personalised media experiences to audiences     across the globe.
+Abstract: The AI4ME project is building an infrastructure of object media experiences (personalised media) using edge computing resources to render customised real-time content to high-end audience devices. The project addresses the challenges of generating and delivering tailored object media by intelligently distributing the processing and data through the delivery network, making optimal use of AI-based resources in the cloud, and utilising edge-compute nodes to provide personalised media experiences to audiences across the globe.
      
 Slides: TBA
 
