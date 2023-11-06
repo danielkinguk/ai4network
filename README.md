@@ -56,9 +56,10 @@ In this presentation, I will discuss the unique requirements of AI training netw
 
 Slides: TBA
    
-#### 5. TBA
+#### 5. Requirements of AI for Network & Practice in iBNG
 Presenter: Weiqiang Cheng, China Mobile 
 
+Abstract: AI large models being used in the network have become a focal point of interest for operators. This presentation will provide a brief overview of some of the requirements for AI in networks, particularly in the areas of AI for Network Operations, AI for Network Services, and AI for Network Security. Furthermore, we aim to illustrate how AI is utilized in the context of China Mobile's iBNG practice to enhance the performance, security, and value-added services in home broadband networks.
 
 
 
