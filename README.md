@@ -45,8 +45,16 @@ Abstract: The AI4ME project is building an infrastructure of object media experi
      
 Slides: TBA
 
-#### 4. TBA
-Presenter: Broadcom
+#### 4. AI Training Network Unique Requirements
+Presenter: Gadi Singer , Traffic Management Network Architect at Broadcom Core Switch Group
+
+Abstract: AI training clusters are evolving at an unprecedented pace, increasing in scale and bandwidth every few months. Innovation in the AI domain depends on training new, innovative AI models using large amounts of data.
+
+The demand for huge amounts of data and large-scale GPU usage introduces new challenges to AI training networks. GPUs are an expensive resource, and ensuring that training GPUs are not idle and waiting for the network is essential for building an efficient AI training network.
+
+In this presentation, I will discuss the unique requirements of AI training networks and how DNX network silicon architecture addresses those challenges.
+
+Slides: TBA
    
 #### 5. TBA
 Presenter: Weiqiang Cheng, China Mobile 
