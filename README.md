@@ -22,6 +22,8 @@ Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf118
 
 Chairs: Weiqiang Cheng (chengweiqiang@chinamobile.com) and Daniel King (d.king@lancaster.ac.uk)
 
+Session Materials: https://www.dropbox.com/scl/fi/tvbjllhhvua7043h7s8j9/ietf-118-ai4network.rar?rlkey=5758as7zg3zik53yv3ph3c69u&dl=0
+
 ### Agenda: 
 
 #### 1. Data, AI and Cybersecurity - a possible cocktail?**
@@ -29,21 +31,21 @@ Presenter: Professor Marco, POLITO
      
 Abstract: Modern Artificial Intelligence technologies, led by Deep Learning, have gained unprecedented momentum over the past decade. Following this wave of ``AI summer", the network research community has also embraced AI/ML algorithms to address many problems related to network operations, management and cybersecurity. In this talk I’ll present some of our recent results in applying AI-based solution to automatically process traffic traces and detect novel attacks, prevent cybersquatting attacks, support forensic investigations, and open new opportunities to protect users from possible abuses.
 
-Slides: https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0
+Slides: [https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0](https://www.dropbox.com/scl/fi/tvbjllhhvua7043h7s8j9/ietf-118-ai4network.rar?rlkey=5758as7zg3zik53yv3ph3c69u&dl=0)
  
 #### 2. REDTE: Exploiting the Power of Reinforcement Learning for Fast Traffic Engineering in Wide Area Networks**
 Presenter: Professor Dan Li, Tsinghua University
      
 Abstract: Traffic bursts in Wide Area Networks (WANs) degrade user experience and increase network provider costs. Bursts usually happen in under a second, thus conventional burst mitigation methods all ignore the potential of Traffic Engineering (TE). However, our experiments indicate that, if the control loop latency of a TE system is sub-second, we can alleviate burst-induced congestion effectively using only TE. This is because TE-based methods can leverage network-wide tunnel-level information to make globally informed decisions (e.g., balancing traffic bursts among multiple paths). Our insight in reducing control loop latency is to let each router make local TE decisions, but this introduces the key challenge of minimizing performance loss compared to a centralized TE system. We design REDTE, a novel distributed TE system with a control loop latency of less than 100ms, while achieving performance comparable to a centralized TE system. REDTE’s innovation is the modeling of TE as a distributed multi-agent cooperative problem, and leverage the short inference time of machine learning to let each router make quick TE decisions solely based on local information. With a P4-capable switch platform, we implement real REDTE routers and deploy them on a real WAN testbed that spans six datacenters in six cities. Our evaluation reveals notable improvements compared to existing solutions: less than 100ms of control loop latency, a 20.0% reduction in maximum link utilization, and a 57.7% reduction in average queue length.
      
-Slides TBA
+Slides: [https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0](https://www.dropbox.com/scl/fi/tvbjllhhvua7043h7s8j9/ietf-118-ai4network.rar?rlkey=5758as7zg3zik53yv3ph3c69u&dl=0)
   
 #### 3. AI4ME: Network Challenges and Role of AI in Personalised Object Media at Scale**
 Presenter: Rajiv Ramdhany, Senior R&D Engineer and Scientist, BBC
      
 Abstract: The AI4ME project is building an infrastructure of object media experiences (personalised media) using edge computing resources to render customised real-time content to high-end audience devices. The project addresses the challenges of generating and delivering tailored object media by intelligently distributing the processing and data through the delivery network, making optimal use of AI-based resources in the cloud, and utilising edge-compute nodes to provide personalised media experiences to audiences across the globe.
      
-Slides: TBA
+Slides: [https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0](https://www.dropbox.com/scl/fi/tvbjllhhvua7043h7s8j9/ietf-118-ai4network.rar?rlkey=5758as7zg3zik53yv3ph3c69u&dl=0)
 
 #### 4. AI Training Network Unique Requirements
 Presenter: Gadi Singer , Traffic Management Network Architect at Broadcom Core Switch Group
@@ -54,13 +56,13 @@ The demand for huge amounts of data and large-scale GPU usage introduces new cha
 
 In this presentation, I will discuss the unique requirements of AI training networks and how DNX network silicon architecture addresses those challenges.
 
-Slides: TBA
+Slides: [https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0](https://www.dropbox.com/scl/fi/tvbjllhhvua7043h7s8j9/ietf-118-ai4network.rar?rlkey=5758as7zg3zik53yv3ph3c69u&dl=0)
    
 #### 5. Requirements of AI for Network & Practice in iBNG
 Presenter: Weiqiang Cheng, China Mobile 
 
 Abstract: AI large models being used in the network have become a focal point of interest for operators. This presentation will provide a brief overview of some of the requirements for AI in networks, particularly in the areas of AI for Network Operations, AI for Network Services, and AI for Network Security. Furthermore, we aim to illustrate how AI is utilized in the context of China Mobile's iBNG practice to enhance the performance, security, and value-added services in home broadband networks.
 
-
+Slides: [https://www.dropbox.com/scl/fi/0z1hx3uq60zb547qyuwdj/AiCyberMeasurements-IETF.pptx?rlkey=yuu5fx870jvdb8tnvok6s3rfm&dl=0](https://www.dropbox.com/scl/fi/tvbjllhhvua7043h7s8j9/ietf-118-ai4network.rar?rlkey=5758as7zg3zik53yv3ph3c69u&dl=0)
 
 
