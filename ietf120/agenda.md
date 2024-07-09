@@ -1,5 +1,5 @@
 # ai4network
-Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?
+An IETF side meeting for the discussion of AI and its applicability to the network. 
 
 # IETF 120 Side Meeting
 Meeting Time: Tuesday 23 JULY 13:00 – 15:00 (PST)
