@@ -17,18 +17,27 @@ Session Materials: To be added.
 
 #### 1. Research Challenges in Coupling Artificial Intelligence and Network Management**
 Presenter: Jerome  François - University of Luxembourg and Inria 
+
 Abstract: TBA
+
 Slides: TBA
+
 Length: 30 minutes
  
 #### 2. Artificial Intelligence and its role in Network Anomaly Detection Architecture**
 Presenter: Thomas Graf – Swisscom (Schweiz) AG
-Abstract: 
+
+Abstract: TBA
+
 Slides: TBA
+
 Length: 30 minutes
 
 #### n. Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?
 Presenter: Daniel King
-Abstract: 
+
+Abstract: TBA
+
 Slides: TBA
+
 Length: 30 minutes
