@@ -10,3 +10,5 @@ Agenda:
 - Network LLM Practice, Dario Rossi, Huawei France, 20 mins (Skipped)
 - Large Language Model (LLM) for Networking: Architecture and Practice, Xiaohui Xie, Tsinghua University, 10 mins
 - NORIA-O ontology Introdcution, Phd Lionel Tailhardat, Orange, 20 mins
+
+Materials: https://github.com/muzixing/IETF119-AI4NET
