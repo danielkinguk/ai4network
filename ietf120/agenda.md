@@ -9,7 +9,7 @@ Remote Participation: https://ietf.webex.com/meet/ietfsidemeeting2
 
 Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf120
 
-Chairs: Daniel King (d.king@lancaster.ac.uk)
+Chairs: Daniel King (d.king@lancaster.ac.uk) and Cheng Li (c.l@huawei.com)
 
 Session Materials: To be added.
 
