@@ -15,7 +15,7 @@ Session Materials: To be added.
 
 ### Agenda: 
 
-#### 1. Research Challenges in Coupling Artificial Intelligence and Network Management**
+#### 1. Research Challenges in Coupling Artificial Intelligence and Network Management
 Presenter: Jerome  François - University of Luxembourg and Inria 
 
 Abstract: TBA
@@ -24,7 +24,7 @@ Slides: TBA
 
 Length: 30 minutes
  
-#### 2. Artificial Intelligence and its role in Network Anomaly Detection Architecture**
+#### 2. Artificial Intelligence and its role in Network Anomaly Detection Architecture
 Presenter: Thomas Graf – Swisscom (Schweiz) AG
 
 Abstract: TBA
@@ -33,7 +33,7 @@ Slides: TBA
 
 Length: 30 minutes
 
-#### 3. Security Management Automation**
+#### 3. Security Management Automation
 Presenter: Paul (Jaehoon) Jeong - SKKU
 
 Abstract: TBA
