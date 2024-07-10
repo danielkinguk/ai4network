@@ -33,8 +33,17 @@ Slides: TBA
 
 Length: 30 minutes
 
-#### n. Utilising AI in Network Operations: How can machine learning improve network operations? What work might there be for the IETF?
-Presenter: Daniel King
+#### 3. Security Management Automation**
+Presenter: Paul (Jaehoon) Jeong - SKKU
+
+Abstract: TBA
+
+Slides: TBA
+
+Length: 30 minutes
+
+#### n. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+Presenter: Daniel King - Lancaster University 
 
 Abstract: TBA
 
