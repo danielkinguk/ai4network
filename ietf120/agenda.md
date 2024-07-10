@@ -42,7 +42,7 @@ Slides: TBA
 
 Length: 30 minutes
 
-#### n. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+#### 4. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
 Presenter: Daniel King - Lancaster University 
 
 Abstract: TBA
