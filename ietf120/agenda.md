@@ -43,7 +43,7 @@ Slides: TBA
 Length: 30 minutes
 
 #### 4. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
-Presenter: Daniel King (Lancaster University) Cheng Li (Huawei)
+Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
 
 Abstract: TBA
 
