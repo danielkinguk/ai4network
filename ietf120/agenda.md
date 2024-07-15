@@ -36,7 +36,20 @@ Length: 30 minutes
 #### 3. Security Management Automation
 Presenter: Paul (Jaehoon) Jeong - SKKU
 
-Abstract: TBA
+Abstract: This talk introduces an Intent-Based Cloud Security System (ICSS) with Interface to Network Security Functions (I2NSF) that is the IETF standard framework and interfaces. This ICSS can support the translation of a security user's declarative intent on a required security service into a detailed imperative policy for Network Security Functions (NSFs) in the form of Virtual Network Function (VNF) or Cloud-Native Network Function (CNF). It can also support closed-loop security services through the collection and analysis of monitoring data from NSFs. Thus, the ICSS can provide flexible and efficient security services to the customers in cloud-based network environments such as 5G networks and Internet of Things (IoT) networks. The design and implementation of the ICSS is based on the framework and data models of the IETF I2NSF. Its architecture is an enhanced version of the I2NSF framework for Intent-Based Networking (IBN) for intelligent security services. Through experiments, it is shown that the proposed ICSS can cope with various security attacks autonomously and efficiently in the manner of intent-based security management.
+
+Security Management Automation of Cloud-Based Security Services in I2NSF Framework
+https://datatracker.ietf.org/doc/draft-jeong-i2nsf-security-management-automation/
+
+I2NSF Analytics Interface YANG Data Model
+https://datatracker.ietf.org/doc/draft-lingga-i2nsf-analytics-interface-dm/
+
+Guidelines for Security Policy Translation in Interface to Network Security Functions
+https://datatracker.ietf.org/doc/draft-yang-i2nsf-security-policy-translation/
+
+Jaehoon (Paul) Jeong and Patrick Lingga, "CBSS: Cloud-Based Security System with Interface to Network Security Functions", 
+ICMU 2023, Kyoto, Japan, November 29, 2023.
+http://iotlab.skku.edu/publications/international-conference/ICMU2023-CBSS.pdf
 
 Slides: TBA
 
