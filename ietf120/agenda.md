@@ -24,10 +24,19 @@ Slides: TBA
 
 Length: 30 minutes
  
-#### 2. Artificial Intelligence and its role in Network Anomaly Detection Architecture
+#### 2. An Architecture for a Network Anomaly Detection Framework
 Presenter: Thomas Graf – Swisscom (Schweiz) AG
 
-Abstract: TBA
+Abstract: Addressing the need to detect connectivity service interruption faster than humans can and facilitate collaboration by enabling exchange on labeled data with standardized semantics on a common framework.
+
+An Architecture for a Network Anomaly Detection Framework
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-architecture
+
+Semantic Metadata Annotation for Network Anomaly Detection
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-semantics
+
+Experiment: Network Anomaly Lifecycle
+https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-lifecycle
 
 Slides: TBA
 
