@@ -64,11 +64,15 @@ Slides: TBA
 
 Length: 30 minutes
 
-#### 4. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
-Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
+#### 4. The role of AI in the control and management of Transport Networks
+Presenter: Oscar Dios Gonzalez - Telefonica
 
-Abstract: TBA
+Abstract: The increasing complexity of network layers and services, coupled with higher traffic dynamism and a reduction in operational resources, drives the need for network automation. Artificial intelligence (AI), integrated with a data-driven network management approach and real-time streaming telemetry, will enable a shift away from human-dependent operations, paving the way for autonomous networks. In this talk, we will explore the role of AI in the transition from manual to fully automated networks.
+
+Reference: AI-based Automation of Multi-layer Multi-domain Transport Networks, OFC 2024 + OFC workshop How Can Generative AI be used for Network Operations? 
 
 Slides: TBA
 
-Length: 30 minutes
+#### 5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
+
