@@ -18,7 +18,10 @@ Session Materials: To be added.
 #### 1. Research Challenges in Coupling Artificial Intelligence and Network Management
 Presenter: Jerome  François - University of Luxembourg and Inria 
 
-Abstract: TBA
+Abstract: AI was discussed for years in NMRG with technical workshops but also with a recent document on AI challenges (draft-irtf-nmrg-ai-challenges). This talk will review this document and recent discussions of the group that would potentially shape future work items of the research agenda of NMRG. Besides, considerations regarding the potential use of GenAI will be discussed in particular regarding security and robustness of models.
+
+Research Challenges in Coupling Artificial Intelligence and Network Management
+https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges/
 
 Slides: TBA
 
