@@ -85,7 +85,7 @@ Abstract: This presentation introduces an architectural framework that applies l
 
 Slides: TBA
 
-#### #5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+#### #6. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
 Time:  15:10 - 15:30 
 Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
 
