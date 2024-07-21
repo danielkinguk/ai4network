@@ -2,7 +2,7 @@
 An IETF side meeting for the discussion of AI and its applicability to the network. 
 
 # IETF 120 Side Meeting
-Meeting Time: Tuesday 23 JULY 13:00 – 15:00 (PST)
+Meeting Time: Tuesday 23 JULY 13:00 – 15:30 (PST)
 Meeting Location: Prince of Wales/Oxford
 
 Remote Participation: https://ietf.webex.com/meet/ietfsidemeeting2
@@ -16,6 +16,7 @@ Session Materials: To be added.
 ### Agenda: 
 
 #### 1. Research Challenges in Coupling Artificial Intelligence and Network Management
+
 Presenter: Jerome  François - University of Luxembourg and Inria 
 
 Abstract: AI was discussed for years in NMRG with technical workshops but also with a recent document on AI challenges (draft-irtf-nmrg-ai-challenges). This talk will review this document and recent discussions of the group that would potentially shape future work items of the research agenda of NMRG. Besides, considerations regarding the potential use of GenAI will be discussed in particular regarding security and robustness of models.
