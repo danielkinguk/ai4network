@@ -15,8 +15,11 @@ Session Materials: To be added.
 
 ### Agenda: 
 
-#### 1. Research Challenges in Coupling Artificial Intelligence and Network Management
+Introduction and intent. 
+Time: 13:00 to 13:05
 
+#### 1. Research Challenges in Coupling Artificial Intelligence and Network Management
+Time 13:05 to 13:25
 Presenter: Jerome  François - University of Luxembourg and Inria 
 
 Abstract: AI was discussed for years in NMRG with technical workshops but also with a recent document on AI challenges (draft-irtf-nmrg-ai-challenges). This talk will review this document and recent discussions of the group that would potentially shape future work items of the research agenda of NMRG. Besides, considerations regarding the potential use of GenAI will be discussed in particular regarding security and robustness of models.
@@ -25,10 +28,9 @@ Research Challenges in Coupling Artificial Intelligence and Network Management
 https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges/
 
 Slides: TBA
-
-Length: 30 minutes
  
 #### 2. An Architecture for a Network Anomaly Detection Framework
+Time 13:30 to 13:55
 Presenter: Thomas Graf – Swisscom (Schweiz) AG
 
 Abstract: Addressing the need to detect connectivity service interruption faster than humans can and facilitate collaboration by enabling exchange on labeled data with standardized semantics on a common framework.
@@ -44,9 +46,8 @@ https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-lifecycl
 
 Slides: TBA
 
-Length: 30 minutes
-
 #### 3. Security Management Automation
+Time 13:55 tpo 14:20
 Presenter: Paul (Jaehoon) Jeong - SKKU
 
 Abstract: This talk introduces an Intent-Based Cloud Security System (ICSS) with Interface to Network Security Functions (I2NSF) that is the IETF standard framework and interfaces. This ICSS can support the translation of a security user's declarative intent on a required security service into a detailed imperative policy for Network Security Functions (NSFs) in the form of Virtual Network Function (VNF) or Cloud-Native Network Function (CNF). It can also support closed-loop security services through the collection and analysis of monitoring data from NSFs. Thus, the ICSS can provide flexible and efficient security services to the customers in cloud-based network environments such as 5G networks and Internet of Things (IoT) networks. The design and implementation of the ICSS is based on the framework and data models of the IETF I2NSF. Its architecture is an enhanced version of the I2NSF framework for Intent-Based Networking (IBN) for intelligent security services. Through experiments, it is shown that the proposed ICSS can cope with various security attacks autonomously and efficiently in the manner of intent-based security management.
@@ -66,9 +67,8 @@ http://iotlab.skku.edu/publications/international-conference/ICMU2023-CBSS.pdf
 
 Slides: TBA
 
-Length: 30 minutes
-
 #### 4. The role of AI in the control and management of Transport Networks
+Time: 14:20 to 14:45
 Presenter: Oscar Dios Gonzalez - Telefonica
 
 Abstract: The increasing complexity of network layers and services, coupled with higher traffic dynamism and a reduction in operational resources, drives the need for network automation. Artificial intelligence (AI), integrated with a data-driven network management approach and real-time streaming telemetry, will enable a shift away from human-dependent operations, paving the way for autonomous networks. In this talk, we will explore the role of AI in the transition from manual to fully automated networks.
