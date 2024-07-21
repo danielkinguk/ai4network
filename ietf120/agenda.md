@@ -67,21 +67,21 @@ http://iotlab.skku.edu/publications/international-conference/ICMU2023-CBSS.pdf
 
 Slides: TBA
 
-#### 4. The role of AI in the control and management of Transport Networks
+#### 4. Leveraging Large Language Models for Enhanced Network Security: A Framework
 Time: 14:20 to 14:45
+Presentor: Juan Deng
+
+Abstract: This presentation introduces an architectural framework that applies large language models to network security. The architectural framework considers the capabilities that large language models can bring to network security and the requirements of applying large language models. The framework consists of crafted modules with distinct functionalities and their interactions to leverage the power of large language models to network security. 
+
+Slides: TBA
+
+#### 5. The role of AI in the control and management of Transport Networks
+Time: 14:45 - 15:10
 Presenter: Oscar Dios Gonzalez - Telefonica
 
 Abstract: The increasing complexity of network layers and services, coupled with higher traffic dynamism and a reduction in operational resources, drives the need for network automation. Artificial intelligence (AI), integrated with a data-driven network management approach and real-time streaming telemetry, will enable a shift away from human-dependent operations, paving the way for autonomous networks. In this talk, we will explore the role of AI in the transition from manual to fully automated networks.
 
 Reference: AI-based Automation of Multi-layer Multi-domain Transport Networks, OFC 2024 + OFC workshop How Can Generative AI be used for Network Operations? 
-
-Slides: TBA
-
-#### #5. Leveraging Large Language Models for Enhanced Network Security: A Framework
-Time: 14:45 - 15:10
-Presentor: Juan Deng
-
-Abstract: This presentation introduces an architectural framework that applies large language models to network security. The architectural framework considers the capabilities that large language models can bring to network security and the requirements of applying large language models. The framework consists of crafted modules with distinct functionalities and their interactions to leverage the power of large language models to network security. 
 
 Slides: TBA
 
