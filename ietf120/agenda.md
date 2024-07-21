@@ -76,6 +76,15 @@ Reference: AI-based Automation of Multi-layer Multi-domain Transport Networks, O
 
 Slides: TBA
 
-#### 5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+#### #5. Leveraging Large Language Models for Enhanced Network Security: A Framework
+
+Presentor: Juan Deng
+
+Abstract: This presentation introduces an architectural framework that applies large language models to network security. The architectural framework considers the capabilities that large language models can bring to network security and the requirements of applying large language models. The framework consists of crafted modules with distinct functionalities and their interactions to leverage the power of large language models to network security. 
+
+Slides: TBA
+
+#### #5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+
 Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
 
