@@ -30,7 +30,7 @@ https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges/
 Slides: TBA
  
 #### 2. An Architecture for a Network Anomaly Detection Framework
-Time 13:30 to 13:55
+Time: 13:30 to 13:55
 Presenter: Thomas Graf – Swisscom (Schweiz) AG
 
 Abstract: Addressing the need to detect connectivity service interruption faster than humans can and facilitate collaboration by enabling exchange on labeled data with standardized semantics on a common framework.
@@ -47,7 +47,7 @@ https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-lifecycl
 Slides: TBA
 
 #### 3. Security Management Automation
-Time 13:55 tpo 14:20
+Time: 13:55 to 14:20
 Presenter: Paul (Jaehoon) Jeong - SKKU
 
 Abstract: This talk introduces an Intent-Based Cloud Security System (ICSS) with Interface to Network Security Functions (I2NSF) that is the IETF standard framework and interfaces. This ICSS can support the translation of a security user's declarative intent on a required security service into a detailed imperative policy for Network Security Functions (NSFs) in the form of Virtual Network Function (VNF) or Cloud-Native Network Function (CNF). It can also support closed-loop security services through the collection and analysis of monitoring data from NSFs. Thus, the ICSS can provide flexible and efficient security services to the customers in cloud-based network environments such as 5G networks and Internet of Things (IoT) networks. The design and implementation of the ICSS is based on the framework and data models of the IETF I2NSF. Its architecture is an enhanced version of the I2NSF framework for Intent-Based Networking (IBN) for intelligent security services. Through experiments, it is shown that the proposed ICSS can cope with various security attacks autonomously and efficiently in the manner of intent-based security management.
@@ -78,7 +78,7 @@ Reference: AI-based Automation of Multi-layer Multi-domain Transport Networks, O
 Slides: TBA
 
 #### #5. Leveraging Large Language Models for Enhanced Network Security: A Framework
-
+Time: 14:45 - 15:10
 Presentor: Juan Deng
 
 Abstract: This presentation introduces an architectural framework that applies large language models to network security. The architectural framework considers the capabilities that large language models can bring to network security and the requirements of applying large language models. The framework consists of crafted modules with distinct functionalities and their interactions to leverage the power of large language models to network security. 
@@ -86,6 +86,6 @@ Abstract: This presentation introduces an architectural framework that applies l
 Slides: TBA
 
 #### #5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
-
+Time:  15:10 - 15:30 
 Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
 
