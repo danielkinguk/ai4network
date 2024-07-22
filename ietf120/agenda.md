@@ -46,7 +46,7 @@ https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-lifecycl
 
 Slides: TBA
 
-#### 3. Security Management Automation
+#### 3. ICSS: Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF
 Time: 13:55 to 14:20
 Presenter: Paul (Jaehoon) Jeong - SKKU
 
