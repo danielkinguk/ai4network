@@ -27,7 +27,7 @@ Abstract: AI was discussed for years in NMRG with technical workshops but also w
 Research Challenges in Coupling Artificial Intelligence and Network Management
 https://datatracker.ietf.org/doc/draft-irtf-nmrg-ai-challenges/
 
-Slides: TBA
+Slides: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
  
 #### 2. An Architecture for a Network Anomaly Detection Framework
 Time: 13:30 to 13:55
@@ -44,7 +44,7 @@ https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-semantic
 Experiment: Network Anomaly Lifecycle
 https://datatracker.ietf.org/doc/html/draft-netana-nmop-network-anomaly-lifecycle
 
-Slides: TBA
+Slides: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
 
 #### 3. ICSS: Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF
 Time: 13:55 to 14:20
@@ -65,7 +65,7 @@ Jaehoon (Paul) Jeong and Patrick Lingga, "CBSS: Cloud-Based Security System with
 ICMU 2023, Kyoto, Japan, November 29, 2023.
 http://iotlab.skku.edu/publications/international-conference/ICMU2023-CBSS.pdf
 
-Slides: TBA
+Slides: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
 
 #### 4. Leveraging Large Language Models for Enhanced Network Security: A Framework
 Time: 14:20 to 14:45
@@ -73,7 +73,7 @@ Presentor: Juan Deng
 
 Abstract: This presentation introduces an architectural framework that applies large language models to network security. The architectural framework considers the capabilities that large language models can bring to network security and the requirements of applying large language models. The framework consists of crafted modules with distinct functionalities and their interactions to leverage the power of large language models to network security. 
 
-Slides: TBA
+Slides: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
 
 #### 5. The role of AI in the control and management of Transport Networks
 Time: 14:45 - 15:10
@@ -83,9 +83,10 @@ Abstract: The increasing complexity of network layers and services, coupled with
 
 Reference: AI-based Automation of Multi-layer Multi-domain Transport Networks, OFC 2024 + OFC workshop How Can Generative AI be used for Network Operations? 
 
-Slides: TBA
+Slides: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
 
 #### #6. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
 Time:  15:10 - 15:30 
 Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
 
+Slides: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
