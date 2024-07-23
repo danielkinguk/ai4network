@@ -11,7 +11,7 @@ Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf120
 
 Chairs: Daniel King (d.king@lancaster.ac.uk) and Cheng Li (c.l@huawei.com)
 
-Session Materials: To be added.
+Session Materials: [To be added.](https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing)
 
 ### Agenda: 
 
