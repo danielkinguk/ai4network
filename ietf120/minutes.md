@@ -2,8 +2,11 @@ ai4network (AI4NET) - IETF 120 Side Meeting
 An IETF side meeting for the discussion of AI and its applicability to the network.
 
 Meeting Time: Tuesday 23 JULY 13:00 – 15:30 (PST) Meeting Location: Prince of Wales/Oxford
+
 Remote Participation: https://ietf.webex.com/meet/ietfsidemeeting2
+
 Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf120
+
 Chairs: Daniel King (d.king@lancaster.ac.uk) and Cheng Li (c.l@huawei.com)
 
 Agenda: https://github.com/danielkinguk/ai4network/blob/main/ietf120/agenda.md
