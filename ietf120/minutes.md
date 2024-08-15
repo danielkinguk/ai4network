@@ -11,51 +11,42 @@ Introduction and intent. Time: 13:00 to 13:05
 
 All slides are availible via: https://drive.google.com/drive/folders/1MLbLCv_oPnLrwnNo3BgUkKub3J-qxbVD?usp=sharing
 
-1. Research Challenges in Coupling Artificial Intelligence and Network Management
-Time 13:05 to 13:30 Presenter: Jerome François - University of Luxembourg and Inria
+Meeting Overview:
+The AI4NET side meeting at IETF 120 focused on discussing the integration of Artificial Intelligence (AI) into network management and security. The session was chaired by Daniel King and Cheng Li, featuring presentations
+from various experts on the challenges, frameworks, and applications of AI in networking.
 
-- Creation of a wiki to track IETF work that relates to AI/ML
-- Creating meta data for training data sets that might be used for related IETF work
-- Tracking data sets that have been used for IETF technologies and related technology
+Key Topics Discussed:
 
-2. An Architecture for a Network Anomaly Detection Framework
-Time: 13:30 to 13:55 Presenter: Thomas Graf – Swisscom (Schweiz) AG
+Research Challenges in AI and Network Management:
+Jerome François highlighted the need for a centralized repository (wiki) to track AI/ML work relevant to IETF, metadata creation for training datasets, and the importance of identifying datasets used in IETF-related
+technologies.
 
-[Mike]What is the AI excatly in the presentation? It looks like data collection and processing?
-[Thomas] Network are deterministic. Customers somewhat. We are using unsipervised machine learning for profiling and symbolic artificial intelligence based on network modelling for detecting outliers. Already had a PoC for 18 months in production network enviroment. 
+Network Anomaly Detection Framework:
+Thomas Graf presented a framework using unsupervised machine learning and symbolic AI for detecting network anomalies, noting a successful proof-of-concept in production for 18 months. Discussions centered on the
+distinction between this framework and traditional incident management systems.
 
-[Alexander Clemm] TBD Delineation from Incident Management Systems (and TTS) - could you not consider an anomaly an incident and apply those existing types of system instead - what is different?
-[Alexander Clemm] Why you put the data in the YANG Model? instead of OSS system? (for annotation data / data added by a user or an application) (Due to time limitation, move to the chat discussion)
+Intent-Based Cloud Security System (ICSS):
+Paul (Jaehoon) Jeong introduced a new YANG Model-driven, closed-loop solution for cloud security. The discussion questioned the novelty and AI components of the solution, with Jeong explaining the integration of AI/ML for
+data processing.
 
+Leveraging Large Language Models for Network Security:
+Juan Deng presented a framework to enhance network security using large language models, sparking a discussion on potential IETF contributions to support this work.
 
-3. ICSS: Intent-Based Cloud Security System with Interface to Network Security Functions (I2NSF
-Time: 13:55 to 14:20 Presenter: Paul (Jaehoon) Jeong - SKKU
+AI in Transport Networks:
+Oscar Dios Gonzalez discussed the benefits and use cases of AI in managing transport networks, emphasizing optimization and efficiency improvements.
+Open Discussion:
 
-[From the room]What is new here? What is the advantage of this solution? 
-[Jeong] New YANG Model design, high level and low level YANG models. This is a automatic closed-loop solution.
-[From the room] I failed to see where is AI in the solution, it seems this is a typical solution.
-[Jeong] We collect the data using new YANG model, with the data, we use some automatic algorithms to solve the problem, using some AI/ML to processing the data(TB checked)
-[Jeong]The main goal is to use the YANG model data, and use it to provide some intelligent functions.
+The session concluded with a broader discussion on the potential of AI in network operations, including specific use cases and frameworks for AI applications in central network functions like congestion control.
+Key Takeaways:
 
+AI and Security: Security is a crucial area for AI application in networking, but challenges remain, including the need for high-quality datasets.
 
-4. Leveraging Large Language Models for Enhanced Network Security: A Framework
-Time: 14:20 to 14:45 Presentor: Juan Deng
-[Daniel KING]What work can we do in the IETF to help your implementation? we can discuss this in the last topic.
+IETF's Role: The meeting aimed to identify how IETF could support the integration of AI into networking, addressing gaps and facilitating new developments. Creation of a Wiki to document and track relevant IETF activity
+such as Working Groups, Internet-Drafts and Workshops. 
 
-5. The role of AI in the control and management of Transport Networks
-Time: 14:45 - 15:10 Presenter: Oscar Dios Gonzalez - Telefonica
-[Oscar] Introduce the benefits of using AI in transport network, including use cases, etc.
+Current and Future Standards Work: The presentations showcased ongoing efforts to incorporate AI into network management and security, with a call for more research and practical frameworks.
 
-6. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
-Time: 15:10 - 15:30 Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
-[some interesting pointers for possible use of AI:
-    1. Microsoft presented three use cases for AI in networks (ingress selection, egress traffic routing, and incident reporting) in the ANRW session today
-    2. Frameworks to understand the behaviour of AI techniques in possibly central network functions, such as using AI (reinforcement learning) in congestion control. Here, Parisis et al published at Infocom 2024 such framework.]
+How can the IETF assist in the development of AI-based technologies in relation to IETF-based technologies: Investigate a respoistry and "how-to" for training data sets related to IETF work. There is also an industry need
+for metadata to describe each data set and data model and/or schema. 
 
-In summary, the meeting focused on the applicability of AI to networking, specifically in the context of security, and discussed challenges, ongoing work, and the role of the IETF in facilitating its use.
-
-- The meeting is focused on the applicability of AI to networking, with a central focus on security.
-- The goal is to identify the role of the IETF in using AI for networking and to determine any gaps or challenges.
-- There is a need for more diverse and high-quality data sets for AI applications in networking.
-- Security and optimization are key areas where AI can be applied, but there are challenges to address.
-- Network anomaly detection system automates network monitoring and detects anomalies in real-time.
+Overall, the meeting highlighted the growing importance of AI in networking, with a focus on security, optimization, and the need for collaboration and standardization through the IETF.
