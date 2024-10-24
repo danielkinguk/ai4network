@@ -44,7 +44,7 @@ Slides: To be provided.
 
 #### 3. AIOps as a step towards closed loop
 Time 14:15 to 14:35
-Presenter: Daniele Ceccarelli (Huawei)
+Presenter: Vincenzo Riccobene (Huawei)
 
 Abstract: Nowadays, detecting and solving network incidents requires operators to invest a significant 
 amount of time and effort monitoring and analyzing networks. In this presentation we investigate how 
