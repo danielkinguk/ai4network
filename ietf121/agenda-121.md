@@ -9,7 +9,7 @@ Remote Participation: https://ietf.webex.com/meet/ietfsidemeeting2
 
 Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf121
 
-Chairs: Daniel King (d.king@lancaster.ac.uk) and Cheng Li (c.l@huawei.com)
+Chairs: Daniel King (d.king@lancaster.ac.uk) and Weiqiang Cheng (chengweiqiang@chinamobile)
 
 Session Materials: [To be added.]
 
@@ -57,5 +57,5 @@ Slides: To be provided.
 
 #### 4. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
 Time:  14:35 - 15:00 
-Presenter: Daniel King (Lancaster University) and Cheng Li (Huawei)
+Presenter: Daniel King (Lancaster University) and Weiqiang Cheng (chengweiqiang@chinamobile)
 
