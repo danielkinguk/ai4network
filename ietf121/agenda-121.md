@@ -11,7 +11,7 @@ Etherpad: https://etherpad.wikimedia.org/p/ai4network-ietf121
 
 Chairs: Daniel King (d.king@lancaster.ac.uk) and Weiqiang Cheng (chengweiqiang@chinamobile.com)
 
-Session Materials: [To be added.]
+Session Materials: [[Slides]](https://drive.google.com/drive/folders/1Z_uX0_I7-agLhNaZV_Suen9tfWdSAlGs?usp=sharing)
 
 ### Agenda: 
 
@@ -55,7 +55,11 @@ block for automated closed loop.
 Relevant IETF Internet-Drafts: To be provided.
 Slides: To be provided.
 
-#### 4. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
-Time:  14:35 - 15:00 
+#### 4. A Story of Semantics and Data Infrastructures
+Time 14:35 to 14:45
+Presenter: Telefonica
+
+#### 5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
+Time:  14:45 - 15:00 
 Presenter: Daniel King (Lancaster University) and Weiqiang Cheng (chengweiqiang@chinamobile.com)
 
