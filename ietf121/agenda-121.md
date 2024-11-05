@@ -35,7 +35,7 @@ Slides: To be provided.
 
 #### 2. AI for Autonomous Networking
 Time 13:55 to 14:15
-Presenter: Daniele Ceccarelli (Cisco)
+Presenter: Javier & Daniele Ceccarelli (Cisco)
 
 Abstract: To be provided.
 
@@ -57,7 +57,7 @@ Slides: To be provided.
 
 #### 4. A Story of Semantics and Data Infrastructures
 Time 14:35 to 14:45
-Presenter: Telefonica
+Presenter: Ignacio Dominguez Martinez-Casaneuva
 
 #### 5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
 Time:  14:45 - 15:00 
