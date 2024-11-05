@@ -31,7 +31,7 @@ efficiency. Multi-agent systems facilitate collaborative problem-solving, where 
 interact and share insights to pinpoint and address faults across both IP and optical layers.
 
 Relevant IETF Internet-Drafts: To be provided.
-Slides: To be provided.
+[[Slides]](https://drive.google.com/drive/folders/1Z_uX0_I7-agLhNaZV_Suen9tfWdSAlGs?usp=sharing)
 
 #### 2. AI for Autonomous Networking
 Time 13:55 to 14:15
@@ -40,7 +40,7 @@ Presenter: Javier & Daniele Ceccarelli (Cisco)
 Abstract: To be provided.
 
 Relevant IETF Internet-Drafts: To be provided.
-Slides: To be provided.
+[[Slides]](https://drive.google.com/drive/folders/1Z_uX0_I7-agLhNaZV_Suen9tfWdSAlGs?usp=sharing)
 
 #### 3. AIOps as a step towards closed loop
 Time 14:15 to 14:35
@@ -53,11 +53,12 @@ incidents and their root causes, leading towards a faster incident resolution an
 block for automated closed loop.
 
 Relevant IETF Internet-Drafts: To be provided.
-Slides: To be provided.
+[[Slides]](https://drive.google.com/drive/folders/1Z_uX0_I7-agLhNaZV_Suen9tfWdSAlGs?usp=sharing)
 
 #### 4. A Story of Semantics and Data Infrastructures
 Time 14:35 to 14:45
 Presenter: Ignacio Dominguez Martinez-Casaneuva
+[[Slides]](https://drive.google.com/drive/folders/1Z_uX0_I7-agLhNaZV_Suen9tfWdSAlGs?usp=sharing)
 
 #### 5. Open Discussion a) Utilising AI in Network Operations b) How can machine learning improve network operations? c) What work might there be for the IETF?
 Time:  14:45 - 15:00 
